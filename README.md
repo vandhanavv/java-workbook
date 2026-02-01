@@ -1,0 +1,1 @@
+This repository Java code snippets and concepts that I find interesting.
