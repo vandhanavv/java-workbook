@@ -3,7 +3,7 @@
 public class Main { // public class is accessible from other classes, files, packages, etc.
     public static void main(String[] args){
         // System.out.println("Hello World");
-        System.out.println(args[0]);
+        System.out.println(args[0]); 
 }}
 
 // public - since main function is the entry point of the program, the main function is made publicly accessible
